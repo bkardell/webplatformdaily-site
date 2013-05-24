@@ -7,10 +7,16 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
  - ![][>] *Google Developers* Live (live presentations) [link](https://developers.google.com/live/)
  - *Feeds* (w/ OMPL files) by [@paul_irish](): frontend [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend), standards+browsers [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-standards%2Bbrowsers), webapps [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-webapps)
 
+## May 23nd, 2013
+
+ - News
+   - *I Swear This Blog Isn't About Elections...*, [@slightlylate]()’s [post](http://infrequently.org/2013/05/i-swear-this-blog-isnt-about-elections/)
+
 ## May 22nd, 2013
 
  - News
    - *Open licensing* at the W3C, [@davidbaron]()’s [post](http://dbaron.org/log/20130522-w3c-licensing) + [discussion](https://twitter.com/davidbaron/status/337024909874184193) on Twitter
+   - *I Swear This Blog Isn't About Elections...*, [@slightlylate]()’s [post](http://infrequently.org/2013/05/i-swear-this-blog-isnt-about-elections/)
    - *Web Performance APIs* rapidly become W3C recommendations, IEblog [post](http://blogs.msdn.com/b/ie/archive/2013/05/21/web-performance-apis-rapidly-become-w3c-recommendations.aspx)
  - FYI
    - ![][>] [@chriscoyier]() made screencasts for his “*Modern web dev workflow*” and “*Staying up to date*” talks [tweet](https://twitter.com/chriscoyier/status/336826654204755969)
@@ -79,6 +85,7 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
    - *Cloud* is going to die much faster than anybody expected, [@leashless]()’s [post](http://vinay.howtolivewiki.com/blog/other/too-cheap-to-meter-massive-overbuild-in-server-farms-3373)
    - Gathering the *Web tribes* together for the common good, [@dalmaer]()’s [post](https://medium.com/tech-talk/dff3e0ffdead)
    - And so, Microsoft ruins *Skype*, [@NickBruun]()’s [post](http://bruun.co/2013/05/20/and-so-microsoft-ruins-skype)
+   - Extend the Web Forward, [@wycats]()'s [post](http://yehudakatz.com/2013/05/21/extend-the-web-forward/)
 
 ## May 20th, 2013
 
